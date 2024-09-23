@@ -2019,3 +2019,10 @@ Blogs:
 - [entrepreneurship-resources](https://github.com/charlax/entrepreneurship-resources)
 - [professional-programming](https://github.com/charlax/professional-programming)
 - [python-education](https://github.com/charlax/python-education)
+
+# License
+
+This project is licensed under **The MIT License (MIT)**, see the
+[LICENSE](LICENSE) file for more details.
+
+This project is tested with BrowserStack.
